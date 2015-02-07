@@ -52,7 +52,7 @@
   {%- if wiki[:6] in ["http:/", "https:"] -%}
     {% set wikilink = wiki %}
   {%- else -%}
-    {% set wikilink = "http://en.wikipedia.org/wiki/" + wiki %}
+    {% set wikilink = "http://en.wikipedia.org/wiki/" + wiki.replace(" ","_") %}
   {%- endif -%}
 
   <dt {% if not idx %}id="{{ name }}-{{ mode }}"{% endif -%} class="searchable">
