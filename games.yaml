@@ -18,7 +18,7 @@
         - image: http://abuse.zoy.org/raw-attachment/wiki/screenshots/title.png
 
 
-- name: Age of Empires II
+- name: [Age of Empires II, "Age of Empires II: The Age of Kings"]
   clones:
     - name: openage
       url: http://openage.sft.mx/
@@ -38,8 +38,8 @@
 
 
 - names:
-    - Alone in the Dark
-    - Alone in the Dark 2
+    - [Alone in the Dark, Alone in the Dark (1992 video game)]
+    - [Alone in the Dark 2, Alone in the Dark 2 (video game)]
     - Jack in the Dark
     - Alone in the Dark 3
   clones:
@@ -50,7 +50,7 @@
       info: development halted, C, GPL
 
 
-- name: "Another World (video game)"
+- name: [Another World, Another World (video game)]
   clones:
     - name: New RAW
       url: http://sourceforge.net/projects/newraw/
@@ -91,7 +91,7 @@
           url: http://wiki.arx-libertatis.org/images/b/b9/Spell.jpg
 
 
-- name: Ascendancy
+- name: [Ascendancy, Ascendancy (video game)]
   clones:
     - name: Starlane Empire
       url: https://gna.org/projects/starlane/
@@ -100,7 +100,7 @@
       info: development halted, C++, GPL
 
 
-- name: Asteroids
+- name: [Asteroids, Asteroids (video game)]
   clones:
     - name: Maelstrom
       url: http://www.libsdl.org/projects/Maelstrom/
@@ -124,8 +124,8 @@
 
 
 - names:
-    - "Baldur's Gate series"
-    - Icewind Dale series
+    - [Baldur’s Gate series, Baldur's Gate (series)]
+    - [Icewind Dale series, Icewind Dale (series)]
     - "Planescape: Torment"
   clones:
     - name: GemRB
@@ -138,7 +138,7 @@
         - image: http://sourceforge.net/dbimage.php?id=105344
 
 
-- name: [Battle City, Battle City (open source game)]
+- name: Battle City
   clones:
     - name: Battle City
       url: http://battlecity.org/
@@ -227,7 +227,7 @@
       added: 2014-01-12
 
 
-- name: Caesar 3
+- name: Caesar III
   clones:
     - name: CaesarIA
       url: https://bitbucket.org/dalerank/caesaria
@@ -235,7 +235,7 @@
       added: 2013-05-27
 
 
-- name: Cannon Fodder
+- name: [Cannon Fodder, Cannon Fodder (series)]
   clones:
     - name: OpenFodder
       url: https://github.com/segrax/openfodder
@@ -252,7 +252,7 @@
       media:
         - raw: <iframe width="420" height="315" src="http://www.youtube.com/embed/0afl6ruHZgI?rel=0" frameborder="0" allowfullscreen></iframe>
 
-- name: Catacomb II
+- name: [The Catacomb, Catacomb (video game)#Sequel]
   clones:
     - name: CatacombSDL
       url: https://github.com/Blzut3/CatacombSDL
@@ -268,7 +268,7 @@
       added: 2013-05-29
 
 
-- name: "Chip's Challenge"
+- name: [Chip’s Challenge, Chip's Challenge]
   clones:
     - name: Tile World
       url: http://www.muppetlabs.com/~breadbox/software/tworld/
@@ -309,7 +309,7 @@
         - raw: <iframe width="420" height="315" src="http://www.youtube.com/embed/zydiZSXpn0w" frameborder="0" allowfullscreen></iframe>
 
 
-- name: Colonization
+- name: [Colonization, Sid Meier's Colonization]
   clones:
     - name: FreeCol
       url: http://www.freecol.org/
@@ -324,7 +324,7 @@
           image: http://www.freecol.org/images/java-shot16_s.jpg
 
 
-- name: [Commander Keen Series, Commander Keen]
+- name: [Commander Keen series, Commander Keen]
   clones:
     - name: Commander Genius
       url: http://clonekeenplus.sourceforge.net/
@@ -338,7 +338,7 @@
 
 
 - names:
-    - Command & Conquer
+    - [Command & Conquer, Command & Conquer (1995 video game)]
     - "Command & Conquer: Red Alert"
     - Dune 2000
   clones:
@@ -352,7 +352,7 @@
         - image: http://media.moddb.com/cache/images/games/1/15/14718/thumb_300x150/d2k-ingame.png
 
 
-- name: Creatures
+- name: [Creatures, Creatures (artificial life series)]
   clones:
     - name: Open Creatures
       url: https://github.com/ccdevnet/openc2e
